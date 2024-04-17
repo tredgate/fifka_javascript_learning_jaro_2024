@@ -1,0 +1,12 @@
+console.log("Programujeme v Javascript!");
+console.log("Druhý řádek");
+console.log("Třetí řádek");
+console.log(123);
+console.log("123");
+console.log(123 + 123);
+console.log("123" + "123");
+console.log("Petr" + "Fifka");
+console.log(true);
+console.log(false);
+console.log(true * false);
+console.log("true" + "false");
